@@ -1,0 +1,71 @@
+div{
+  color:navy;
+}
+h1{
+  text-align:center;
+  color:rgb(243,65,243);
+}
+body{
+  font-family:'Trebuchet MS',times,verdana;
+}
+p{
+  font-size:14px;
+}
+h1{
+  font-size:large;
+}
+h3{
+  font-weight:bold;
+}
+h2{
+  font-style:italic;
+}
+h1{
+text-decoration:underline overline;
+}
+a{
+  text-decoration:none;
+}
+a:hover {
+  text-decoration:underline;
+}
+span{
+  text-transform:uppercase;
+}
+p{
+  text-align:justify;
+}
+p{
+  font:italic bold 120%/140% Arial,sans-serif;
+}
+body{
+  letter-spacing:0.4em;
+}
+body{
+  letter-spacing:-1px;
+}
+p{
+  text-align:justify;
+}
+h3{
+  border: 3px dotted gray;
+}
+h3{
+  width:10em;
+  border-right:1px solid red;
+}
+div#global {background-image:url(e.html/3.jpg);}
+div#global {background-image:url(https://esfbenin.net/e.html/3.jpg);}
+body{
+  background-image:url(.jpg);
+  background-repeat:repeat-x;
+  background-position:top;
+}
+body{
+  background-image:url(.jpg);
+  background-repeat:no-repeat;
+  background-position:center-right;
+}
+body{
+  background-attachment:fixed;
+}
